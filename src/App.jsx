@@ -3,8 +3,8 @@ import React, { useState } from 'react';
 import './App.css';
 
 // Components
-import Sidebar from './components/Sidebar';
-import Header from './components/Header';
+import Sidebar from './components/sidebar';
+import Header from './components/header';
 import DashboardCards from './components/DashboardCards';
 import Charts from './components/Charts';
 import RecentActivity from './components/RecentActivity';
